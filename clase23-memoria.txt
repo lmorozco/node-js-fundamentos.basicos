@@ -1,0 +1,7 @@
+Datos almacenados en memoria son mucho más rápidos en comparación a guardarlos en disco
+
+Clave para Buffers y Streams
+
+Buffer: Monton de Datos.
+
+Stream: Proceso donde pasan un monton de datos.
